@@ -1,0 +1,57 @@
+$bg-color: #121619;
+$color : #D76C69;
+$color: #6C6E70;
+$color: #D1D1D1;
+$color: #E6E7E7;
+
+
+
+
+nav {
+    background-color: $bg-color;
+}
+
+html {
+    background-color: $bg-color;
+}
+
+.col-2 h1 {
+    font-family: 'Playfair Display', sans-serif;
+    font-size: 70px; 
+    font-weight: 900;
+    font-style: italic;
+}
+.col-2 p {
+    color: #D76C69;
+    font-family: 'roboto', sans-serif;
+    font-weight: lighter;
+    font-size: 30px;
+}
+
+ .nav-color {
+     color: #D76C69;
+ }
+ .card-body  {
+     font-family: 'Roboto', sans-serif;
+     font-weight: bold;
+     color: #6C6E70;
+
+ }
+
+ .col-8 {
+     font-family: 'roboto', sans-serif;
+     font-weight: bolder;
+     color: #6C6E70;
+ }
+button {
+    border-radius: 50px !important;
+}
+
+div .paginacion {
+    background-color: #D1D1D1;
+    height: 100px;;
+}
+
+div .logo-final {
+    background-color: #121619
+}
